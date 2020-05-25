@@ -1,9 +1,4 @@
----
-  title: "Practical Machine Learning"
-author: "Au Cheuk Shing"
-date: "5/24/2020"
-output: html_document
----
+##author: Romain Molliet
   
   
   
